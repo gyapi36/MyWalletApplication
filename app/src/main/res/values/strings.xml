@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="income_text">Income</string>
+    <string name="save_text">Save</string>
+    <string name="label_expense_string">Name</string>
+    <string name="label_amount_string">Price [$]</string>
+    <string name="delete_all_text">Delete all</string>
+    <string name="summary_text">Summary</string>
+    <string name="card_icon_desc_text">Expense type</string>
+    <string name="delete_icon_desc">Delete</string>
+    <string name="error_desc">error</string>
+    <string name="error_message">Please fill out all fields…</string>
+    <string name="empty_field_error_text">Please fill out all fields…</string>
+    <string name="login_string">Login</string>
+    <string name="login_label">PIN</string>
+    <string name="incorrect_pin_text">Incorrect PIN</string>
+    <string name="list_nav_route">money-list</string>
+    <string name="login_nav_text">login</string>
+    <string name="expense_nav_string">expense</string>
+    <string name="income_nav_string">income</string>
+    <string name="summary_nav_text">summary/{expense}/{income}</string>
+    <string name="dollar_sign">" "$</string>
+    <string name="summary_slash_string">summary/</string>
+    <string name="slash_string">/</string>
+    <string name="expense_text">"Expense: "</string>
+    <string name="income_string">"Income: "</string>
+    <string name="balance_string">"Balance: "</string>
+</resources>
